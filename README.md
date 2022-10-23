@@ -1,6 +1,6 @@
 # Mandelbrot_Universo
  
-###### > Criando um Mandelbrot em HTML 
+ > Criando um Mandelbrot em HTML 
 
 
 # O que é um Mandelbrot?
