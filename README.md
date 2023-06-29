@@ -2,7 +2,8 @@
  
  > Criando um Mandelbrot em HTML
 
-https://i.imgur.com/Dgf8Q0u.png
+![opera_wCKvb6gaN9](https://github.com/Sofia-Magalhaes/Mandelbrot/assets/52801509/58f814e3-4912-49a3-9a03-ec8ac676b4f5)
+
 
 
 # O que é um Mandelbrot?
